@@ -1,7 +1,10 @@
-# 💫 About Me:
-🌱 I’m currently learning Software Engineering at ALX Africa<br>🌱 I’m currently working on improving my coding skills<br>👯 I’m looking to collaborate on all sort of problem solving projects<br>💬 Ask me about anything and I will be glad to help if I can<br>
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ِAHMED;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# Hi I'm Ahmed.👋
 
+### I am a Software Engineering student at ALX. `I learn by doing....`
 
+- #### 🔭 I’m currently working on my coding skills.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_kdry) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/a_kdry) 
 
